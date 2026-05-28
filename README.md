@@ -3,7 +3,7 @@
 ## ERD DIAGRAM
 --------------
 # BANKING DATABASE ERD
-![Banking ERD](images/banking_erd.png)
+![Banking ERD](banking_erd.png)
 
 ## Tables Included
 
