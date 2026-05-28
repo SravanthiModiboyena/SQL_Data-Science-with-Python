@@ -1,7 +1,6 @@
 /*
      AGGREGATIONS 
 */
-
 -- NULL QUERIES
 -- find customers with NULL email
 SELECT * from customers
