@@ -7,6 +7,7 @@ where table_schema = 'public';
 -- Checking which tables have data
 
 -- Branches
+
 SELECT 'branches' AS table_name, COUNT(*) FROM branches
 UNION ALL
 
