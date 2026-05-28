@@ -4,6 +4,7 @@ JOINS
 
 -- INNER Join
 -- customers with account details
+
 Select c.first_name,
        a.account_type,
 	   a.current_balance
